@@ -1,0 +1,11 @@
+// Mixins
+// ------
+
+@mixin color($name, $value) {
+    .bg-#{$name} {
+        background-color: $value;
+    }
+    .#{$name} {
+        color: $value;
+    }
+}

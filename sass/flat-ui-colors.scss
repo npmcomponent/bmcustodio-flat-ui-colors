@@ -1,0 +1,22 @@
+/*!
+ * flat-ui-colors 1.0.0 (https://github.com/bmcustodio/flat-ui-colors)
+ * Copyright 2014 Bruno M. Custódio
+ * MIT License
+ *
+ *
+ * Based on
+ * --------
+ * Flat-UI 2.1.3 (https://github.com/designmodo/Flat-UI)
+ * Copyright 2013-2014 designmodo
+ * CC BY 3.0 and MIT License
+ */
+
+@import "mixins";
+@import "variables";
+
+// Styles
+// ------
+
+@each $color in $colors {
+    @include color(nth($color, 1), nth($color, 2));
+}

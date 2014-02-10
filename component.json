@@ -1,0 +1,25 @@
+{
+  "name": "flat-ui-colors",
+  "repo": "bmcustodio/flat-ui-colors",
+  "description": "Flat UI's color palette in CSS/LESS/SASS.",
+  "version": "1.0.0",
+  "keywords": [
+  ],
+  "main": "css/flat-ui-colors.css",
+  "styles": [
+    "css/flat-ui-colors.css"
+  ],
+  "files": [
+    "css/flat-ui-colors.css",
+    "css/flat-ui-colors.min.css",
+    "less/flat-ui-colors.less",
+    "less/mixins.less",
+    "less/variables.less",
+    "sass/flat-ui-colors.scss",
+    "sass/mixins.scss",
+    "sass/variables.scss",
+    "LICENSE",
+    "README.md"
+  ],
+  "license": "MIT"
+}

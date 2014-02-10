@@ -1,0 +1,11 @@
+// Mixins
+// ------
+
+.color(@color) {
+	.bg-@{color} {
+		background-color: @@color;
+	}
+	.@{color} {
+	    color: @@color;
+	}
+}
