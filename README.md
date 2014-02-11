@@ -1,5 +1,7 @@
 # flat-ui-colors
 
+[![Build Status](https://travis-ci.org/bmcustodio/flat-ui-colors.png?branch=master)](https://travis-ci.org/bmcustodio/flat-ui-colors)
+
 [Flat UI](http://designmodo.github.io/Flat-UI)'s color palette in CSS/LESS/SASS.
 
 ## License

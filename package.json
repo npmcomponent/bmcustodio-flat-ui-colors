@@ -1,0 +1,14 @@
+{
+  "name": "flat-ui-colors",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-csslint": "~0.1.3",
+    "gulp-less": "~1.2.1",
+    "gulp-sass": "~0.7.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "private": true
+}
