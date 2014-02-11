@@ -1,6 +1,6 @@
 {
   "name": "flat-ui-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "css/flat-ui-colors.css",
   "ignore": [
     ".*",

@@ -1,6 +1,6 @@
 {
   "name": "flat-ui-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "gulp": "~3.5.2",
     "gulp-csslint": "~0.1.3",
