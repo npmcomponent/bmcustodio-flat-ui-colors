@@ -4,6 +4,12 @@
   "description": "Flat UI's color palette in CSS/LESS/SASS.",
   "version": "1.0.0",
   "keywords": [
+    "colors",
+    "css",
+    "flat",
+    "less",
+    "sass",
+    "ui"
   ],
   "main": "css/flat-ui-colors.css",
   "styles": [
@@ -18,6 +24,7 @@
     "sass/flat-ui-colors.scss",
     "sass/mixins.scss",
     "sass/variables.scss",
+    "gulpfile.js",
     "LICENSE",
     "README.md"
   ],

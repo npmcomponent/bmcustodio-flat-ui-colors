@@ -4,6 +4,7 @@
   "main": "css/flat-ui-colors.css",
   "ignore": [
     ".*",
-    "component.json"
+    "component.json",
+    "package.json"
   ]
 }
