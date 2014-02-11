@@ -18,7 +18,7 @@ gulp.task('css', function () {
 gulp.task('less', function () {
     gulp.src('./less/flat-ui-colors.less')
         .pipe(less())
-        .pipe(gulp.dest('./target/less'));
+        .pipe(gulp.dest('./build/less'));
 });
 
 /*
@@ -27,7 +27,7 @@ gulp.task('less', function () {
 gulp.task('sass', function () {
     gulp.src('./sass/flat-ui-colors.scss')
         .pipe(sass())
-        .pipe(gulp.dest('./target/sass'));
+        .pipe(gulp.dest('./build/sass'));
 });
 
 /*
